@@ -15,8 +15,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielsitta4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsitta4&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8&exclude_repo=animal_network,api_foodstore,catalogo_livros,foodstore,insertnumber,ProjetoFinal_EngenhariadeSoftware" height="165" alt="top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabrielsitta4&theme=tokyonight" height="180" alt="stats"/>
 
 <br/><br/>
 
