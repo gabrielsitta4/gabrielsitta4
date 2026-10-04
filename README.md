@@ -7,6 +7,7 @@
 [![Nexus Mods](https://img.shields.io/badge/Nexus_Mods-D98F40?style=for-the-badge)](https://next.nexusmods.com/profile/opaaaaaaaaaaaa/mods)
 [![CurseForge](https://img.shields.io/badge/CurseForge-F16436?style=for-the-badge&logo=curseforge&logoColor=white)](https://www.curseforge.com/members/opaaaaaa/projects)
 [![Steam Workshop](https://img.shields.io/badge/Steam_Workshop-1B2838?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198982807823/myworkshopfiles/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VcuRghJJMh)
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
